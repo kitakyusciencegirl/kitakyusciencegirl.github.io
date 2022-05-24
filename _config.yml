@@ -1,15 +1,15 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
+  kihara:
+    image_url: /images/actors/kihara.png
+    name: kihara
     url:
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
+  imai:
+    image_url: /images/actors/imai.png
+    name: imai
     url:
-author: alice
-description: 北九州サイエンスガールプロジェクト　Podcast
-description_long: 北九州サイエンスガールプロジェクト　Podcast
+author: kihara
+description: 北九州サイエンスガールプロジェクトのポッドキャスト
+description_long: 北九州サイエンスガールプロジェクトがお贈りする、リケジョ応援ポッドキャスト
 email: 
 exclude:
   - docker
@@ -22,12 +22,12 @@ exclude:
 google_analytics:
 hashtag: 北九州サイエンスガールプロジェクト
 itunes_podcast_url:
-keywords: 北九州サイエンスガール,北九州市立大学
+keywords: 北九州サイエンスガール,北九州市立大学,リケジョ応援
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: 北九州サイエンスガールプロジェクトfm
+title: 北九州サイエンスガールプロジェクト.fm
 url: https://www.kitakyusciencegirl.org
