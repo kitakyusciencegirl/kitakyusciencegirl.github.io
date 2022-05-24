@@ -22,7 +22,7 @@ exclude:
 google_analytics:
 hashtag: 北九州サイエンスガールプロジェクト
 itunes_podcast_url:
-keywords: 北九州サイエンスガール,北九州市立大学,リケジョ応援
+keywords: 北九州サイエンスガール, 北九州市立大学, リケジョ応援
 language: ja
 markdown: kramdown
 permalink: /episode/:title
