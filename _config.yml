@@ -2,15 +2,15 @@ actors:
   alice:
     image_url: /images/actors/alice.png
     name: alice
-    url: http://sns.example.com/alice
+    url:
   bob:
     image_url: /images/actors/bob.png
     name: bob
-    url: http://sns.example.com/bob
+    url:
 author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+description: 北九州サイエンスガールプロジェクト　Podcast
+description_long: 北九州サイエンスガールプロジェクト　Podcast
+email: 
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: 北九州サイエンスガールプロジェクト
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: 北九州サイエンスガール,北九州市立大学
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: 北九州サイエンスガールプロジェクトfm
+url: https://www.kitakyusciencegirl.org
