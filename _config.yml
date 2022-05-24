@@ -4,8 +4,8 @@ actors:
     name: kihara
     url:
 author: kihara
-description: リケジョ応援企画系ポッドキャスト
-description_long: 北九州サイエンスガールプロジェクトがお贈りする理系進路選択応援ポッドキャストです。
+description: 北九州からお届けするリケジョ応援ポッドキャスト
+description_long: 北九州サイエンスガールプロジェクトがお届けするリケジョ応援ポッドキャストです。ポッドキャスト以外にもYouTubeやInstagramもやっています。
 email: 
 exclude:
   - docker
