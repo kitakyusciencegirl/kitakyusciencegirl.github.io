@@ -1,3 +1,3 @@
-# Yattecast
+# 北九州サイエンスガールプロジェクト.fm
 
-https://r7kamura.github.io/yattecast/
+https://kitakyusciencegirl.github.io/fm/
