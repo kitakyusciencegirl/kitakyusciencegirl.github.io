@@ -8,8 +8,8 @@ actors:
     name: imai
     url:
 author: kihara
-description: 北九州サイエンスガールプロジェクトのポッドキャスト
-description_long: 北九州サイエンスガールプロジェクトがお贈りする、リケジョ応援ポッドキャスト
+description: リケジョ応援ポッドキャスト
+description_long: 北九州サイエンスガールプロジェクトがお贈りするリケジョ応援ポッドキャスト
 email: 
 exclude:
   - docker
