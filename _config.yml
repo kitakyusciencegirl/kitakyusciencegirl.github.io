@@ -3,13 +3,9 @@ actors:
     image_url: /images/actors/kihara.png
     name: kihara
     url:
-  imai:
-    image_url: /images/actors/imai.png
-    name: imai
-    url:
 author: kihara
-description: リケジョ応援ポッドキャスト
-description_long: 北九州サイエンスガールプロジェクトがお贈りするリケジョ応援ポッドキャスト
+description: リケジョ応援企画系ポッドキャスト
+description_long: 北九州サイエンスガールプロジェクトがお贈りする理系進路選択応援ポッドキャストです。
 email: 
 exclude:
   - docker
@@ -30,4 +26,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 北九州サイエンスガールプロジェクト.fm
-url: https://www.kitakyusciencegirl.org
+url: https://kitakyusciencegirl.github.io/
