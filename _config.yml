@@ -5,7 +5,7 @@ actors:
     url:
 author: kihara
 description: 北九州からお届けするリケジョ応援ポッドキャスト
-description_long: 北九州サイエンスガールプロジェクトがお届けするリケジョ応援ポッドキャストです。ポッドキャスト以外にもYouTubeやInstagramをやっています。
+description_long: 北九州サイエンスガールプロジェクトがお届けするリケジョ応援ポッドキャストです。YouTubeやInstagramもやっています。
 email: 
 exclude:
   - docker
