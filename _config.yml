@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/kihara.png
     name: kihara
     url:
+  AI:
+    image_url: /images/actors/AI.png
+    name: AI
+    url:
 author: kihara
 description: 北九州からお届けするリケジョ応援ポッドキャスト
 description_long: サイエンスラボ from 北九州 がお届けするリケジョ応援ポッドキャストです。YouTubeやInstagramもやっています。
