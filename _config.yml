@@ -3,9 +3,9 @@ actors:
     image_url: /images/actors/kihara.png
     name: kihara
     url:
-  AI_Gemini:
+  ai:
     image_url: /images/actors/AI.png
-    name: AI_Gemini
+    name: ai
     url:
 author: kihara
 description: 北九州からお届けするリケジョ応援ポッドキャスト
