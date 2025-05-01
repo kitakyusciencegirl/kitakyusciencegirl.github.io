@@ -1,3 +1,3 @@
-# 北九州サイエンスガールプロジェクト.fm
+# 北九州サイエンスラボ.fm
 
 https://kitakyusciencegirl.github.io/
